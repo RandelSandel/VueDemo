@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "laravel-elixir": "*"
+  },
+  "dependencies": {
+    "vue": "^0.12.0"
+  }
+}
